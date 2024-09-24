@@ -17,16 +17,15 @@
 ---
 
 ### 🚀 Current Project:
-**AssetX (Private REPO)**
+**AssetX (Private Repo)**
 Developing a systematic Machine Learning libraty that ingest quantamental data sources and utilizes deep learning models for novel signal extractions that use for monthly option trading strategies and ETF hedge baskets.
 
 **Key Features:**
 - 🌟 Front End: React Front End to monitor companies that you closely follow/and or have active positions on to monitor their monthly factor exposures [Front end](https://assetxdev.netlify.app/us).
-- ⚡ Performance Optimization: Enjoy high performance with built-in optimizations. LightAPI is engineered to handle high loads efficiently, ensuring your APIs run smoothly even under heavy traffic.
-- 🔒 Security First: Protect your API and data with default security measures. LightAPI includes essential security features to safeguard against common vulnerabilities and threats.
-- 🔗 Easy Integration: Seamlessly integrate with existing Python libraries and frameworks. LightAPI is designed to work well with popular tools and technologies, making it easy to incorporate into your existing stack.
-- 🔧 Developer-Friendly: Streamline your development process with intuitive interfaces and clear documentation. LightAPI is crafted to enhance productivity and simplify API development.
+- ⚡ Time Series ML API: Ability to apply proprietary factor models directly to time series data through our API to get active factor exposures for any time series data that is the focal point of analysis.
+- 🔗 Easy Backtesting: Proprietary backtesting library to quickly take factors and factor betas to produce in and out of sample PNL's
 
+---
 
 
 **LightAPI (Public Repo)**
