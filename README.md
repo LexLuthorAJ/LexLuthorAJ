@@ -8,7 +8,7 @@
 
 ### About Me
 
-- 👀 **Interests:** Python Development | Cloud Architecture | Microservices | Machine Learning | Information Security | Data-centric Solutions | Scalable Infrastructure
+- 👀 **Interests:** Python | Machine Learning | Cloud Architecture | Microservices | Statistics/Math | Information Security | Data-centric Solutions | Scalable Infrastructure
 - 💻 **Technologies I Use:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA0C00?style=flat-square&logo=python&logoColor=white)
 - 🌱 **Currently Learning:** Cloud Infrastructure Optimization | AI-driven Predictive Analytics | Langchain for Conversational AI
 - 💞️ **Looking to Collaborate On:** Open-source projects in cloud automation, scalable microservices, and security-driven applications.
