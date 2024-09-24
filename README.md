@@ -25,7 +25,6 @@ Developing a systematic Machine Learning libraty that ingest quantamental data s
 - ⚡ Time Series ML API: Ability to apply proprietary factor models directly to time series data through our API to get active factor exposures for any time series data that is the focal point of analysis.
 - 🔗 Easy Backtesting: Proprietary backtesting library to quickly take factors and factor betas to produce in and out of sample PNL's
 
----
 
 
 **LightAPI (Public Repo)**
